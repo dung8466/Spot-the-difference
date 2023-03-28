@@ -79,6 +79,7 @@ x = np.zeros((img_height,10,3), np.uint8)
 ![Lv0](/screenshot/Lv0.png)
 ![Lv1](/screenshot/Lv1.png)
 ![Lv2](/screenshot/Lv2.png)
+* Find the difference
 ![Lv0 Result](/screenshot/Lv0Result.png)
 ![Lv1 Result](/screenshot/Lv1Result.png)
 ![Lv2 Result](/screenshot/Lv2Result.png)
@@ -86,7 +87,7 @@ x = np.zeros((img_height,10,3), np.uint8)
 ### Prerequisites
 
 Things you need:
-* Make sure python and pip are installed
+* Make sure [python](https://www.python.org/) and [pip](https://pip.pypa.io/en/stable/installation/) are installed
 * Jupyter notebook
 ```sh
 pip install notebook
@@ -113,7 +114,7 @@ Run jupyter notebook
    ```sh
    jupyter notebook
    ```
-And select this project folder.
+Select this project folder and run img_diff.ipynb.
 
 
 
